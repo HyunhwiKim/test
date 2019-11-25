@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.recipe_app",
+    "sha256_cert_fingerprints":
+    ["FA:5A:2A:1A:1A:59:A2:92:4D:11:E1:74:98:6C:75:0A:87:91:F7:35:A7:90:D2:A2:30:9D:30:60:52:E7:EB:9E"]
+  }
+}]
